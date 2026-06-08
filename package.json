@@ -1,0 +1,14 @@
+{
+  "name": "ecommerce-mvc",
+  "version": "1.0.0",
+  "description": "An ultra-minimal 5-file MVC e-commerce web application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0"
+  }
+}
